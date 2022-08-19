@@ -101,3 +101,39 @@ Dataset source : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 | MonthlyCharges | Float | The amount charged to the customer monthly |
 | TotalCharges | Float | The total amount charged to the customer
 | Churn | Text | Whether the customer churned or not (Yes or No)
+
+---
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Centered%20Header%20+%20Big%20Center%20Space%20(3).jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Centered%20Header%20+%20Big%20Center%20Space%20(4).jpg?raw=true)
+
+---
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%201%20Paragraph%20(6).jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%202%20Paragraphs.jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%202%20Paragraphs%20(2).jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%202%20Paragraphs%20(3).jpg?raw=true)
+
+---
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Centered%20Header%20+%20Big%20Center%20Space%20(5).jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Centered%20Header%20+%20Big%20Center%20Space%20(6).jpg?raw=true)
+
+---
+
+![]([https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Centered%20Header%20+%20Big%20Center%20Space%20(6).jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Centered%20Header%20+%20Big%20Center%20Space%20(7).jpg?raw=true)
+
+---
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%202%20Paragraphs%20(5).jpg?raw=true)
+
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%202%20Paragraphs%20(6).jpg?raw=true)
+
+---
+![](https://github.com/reyhanalif/Telco-Customer-Churn-Prediction/blob/main/pdf/1%20Heading%20+%202%20Paragraphs%20(7).jpg?raw=true)
